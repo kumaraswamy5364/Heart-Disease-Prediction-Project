@@ -11,7 +11,7 @@ The project includes Exploratory Data Analysis (EDA), data quality assessment, f
 The main goal is to identify individuals at higher risk of heart disease at an early stage, supporting risk assessment and informed healthcare decision-making.
 
 ## 📂 Datasets
-The project uses the following datasets and these datasets available in :
+The project uses the following datasets and these datasets available in HeartDiseasePred docx file :
 
 - `values.csv` – Contains patient features and medical attributes used for prediction.
 - `labels.csv` – Contains the target variable `heart_disease_present`, indicating whether heart disease is present.
